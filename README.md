@@ -1,2 +1,4 @@
--2 semestre BCC - IFSP CAMPUS SALTO\n
--Procurando emprego na area!
+#README/Gebarito
+
+- 🎓 2 semestre BCC - IFSP CAMPUS SALTO 🎓
+- 🔎 Procurando estagio na area! 🔎
