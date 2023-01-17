@@ -1,3 +1,9 @@
+### Hey! Welcome to my github profile
+
+- 👨‍🎓 Studying science computer
+- 👨‍💻 Love for backend and game development
+- 📧 Contact me in joao.gebara.dev@gmail.com
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Gebarito&show_icons=true&theme=dark"
