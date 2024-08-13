@@ -1,10 +1,10 @@
 # Joao Gebara
 
 <div>
-    <img align="left" src="index.jpeg" width="40%" height="500px">
+    <img align="right" src="index.jpeg" width="40%" height="500px">
 </div>
 
-<div style="padding-left: 42%;">
+<div style="">
     <h2>Software Engineer</h3>
     <h3>Bio</h3>
     <ul>
