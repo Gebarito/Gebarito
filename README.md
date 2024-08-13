@@ -1,7 +1,7 @@
 # Joao Gebara
 
 <div>
-    <img align="right" src="index.jpeg" width="40%" height="500px">
+    <img align="right" src="index.jpeg" width="50%" height="500px">
 </div>
 
 <div style="">
