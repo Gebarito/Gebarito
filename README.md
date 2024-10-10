@@ -14,9 +14,9 @@
     <h3>Main Skills</h3>
     <ul>
         <li>PHP</li>
-        <li>Java</li>
-        <li>Javascript</li>
-        <li>TypeScript</li>
+        <li>Typescript</li>
+        <li>C++</li>
+        <li>C#</li>
         <li>Docker</li>
         <li>Linux</li>
     </ul>
