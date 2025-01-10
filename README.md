@@ -8,7 +8,6 @@
     <h2>Software Engineer</h3>
     <h3>Bio</h3>
     <ul>
-        <li>SWE Intern at <a href="https://chuva.net.br/">@chuva-inc</a></li>
         <li>CS student at IFSP</li>
     </ul>
     <h3>Main Skills</h3>
