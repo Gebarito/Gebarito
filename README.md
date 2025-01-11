@@ -9,6 +9,7 @@
     <h3>Bio</h3>
     <ul>
         <li>CS student at IFSP</li>
+        <li>Intern at Siemens Brazil</li>
     </ul>
     <h3>Main Skills</h3>
     <ul>
