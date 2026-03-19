@@ -1,29 +1,37 @@
 # Joao Gebara
 
-<div>
-    <img align="right" src="index.jpeg" width="50%" height="500px">
-</div>
+---
 
-<div style="">
-    <h2>Software Engineer</h3>
-    <h3>Bio</h3>
-    <ul>
-        <li>CS student at IFSP</li>
-        <li>Intern at Siemens Brazil</li>
-    </ul>
-    <h3>Main Skills</h3>
-    <ul>
-        <li>PHP</li>
-        <li>Typescript</li>
-        <li>C++</li>
-        <li>C#</li>
-        <li>Docker</li>
-        <li>Linux</li>
-    </ul>
-    <h3>Interests & Hobbies</h3>
-    <ul>
-        <li>Computer Graphics & Shaders</li>
-        <li>Retro Computing</li>
-        <li>Reinventing the wheel (with C)</li>
-    <ul>
-</div>
+### Software Engineer
+
+<p>
+    Degree in computer science, I have professional experience in full-stack web development and embedded systems in the industrial automation field. <br>
+    Always trying to learn something new or just reinvent the wheel!
+</p>
+
+---
+
+### 🛠 Main Skills
+
+- C++
+- C#
+- C
+- Java
+- Linux
+- Siemens WinCC and STEP7.
+- Program PLCs (S7-1500/1200) in Ladder, SCL, C, C# and more.
+
+### 💡 Interests
+
+- Embedded & Industrial Automation
+- Game Design & Development
+- Web!
+
+### 👋 Contact me
+🌐 [website](https://gebarito.github.io/) <br>
+📧 [e-mail](mailto:joao.gebara.dev@gmail.com) <br>
+👥 [linkedin](https://www.linkedin.com/in/joaogebara/)
+
+---
+
+<img src="index.jpeg" width="100%">
