@@ -28,9 +28,9 @@
 - Web!
 
 ### 👋 Contact me
-🌐 [website](https://gebarito.github.io/) <br>
-📧 [e-mail](mailto:joao.gebara.dev@gmail.com) <br>
-👥 [linkedin](https://www.linkedin.com/in/joaogebara/)
+- 🌐 [website](https://gebarito.github.io/)
+- 📧 [e-mail](mailto:joao.gebara.dev@gmail.com)
+- 👥 [linkedin](https://www.linkedin.com/in/joaogebara/)
 
 ---
 <img width="1417" height="572" alt="Untitled" src="https://github.com/user-attachments/assets/43abb3b6-591b-4790-b049-43f957a3374f" />
