@@ -11,8 +11,7 @@
 
 ---
 
-### 🛠 Main
- Skills
+### 🛠 Main Skills
 
 - C++
 - C#
